@@ -1,4 +1,4 @@
- {
+{
 	"config": {
 		"trackHighestDivision": true
 	},
@@ -150,7 +150,8 @@
 						"name": "Covenant",
 						"heroicTier": "Standard"
 					}
-				]
+				],
+				"decreaseModelCount": 1
 			},
 			{
 				"name": "Golden Path",
@@ -185,6 +186,7 @@
 						"elementPropertyName": "capitalShips"
 					}
 				],
+				"decreaseModelCount": 1,
 				"specialRules": [
 					"Command Centre"
 				]
@@ -220,6 +222,7 @@
 						"elementPropertyName": "smallShips"
 					}
 				],
+				"decreaseModelCount": 3,
 				"specialRules": [
 					"Hunter Killers"
 				]
@@ -247,6 +250,7 @@
 						"elementPropertyName": "capitalShips"
 					}
 				],
+				"decreaseModelCount": 1,
 				"specialRules": [
 					"Focused Wrath"
 				]
@@ -274,6 +278,7 @@
 						"elementPropertyName": "capitalShips"
 					}
 				],
+				"decreaseModelCount": 1,
 				"specialRules": [
 					"Focused Wrath",
 					"Penitents"
@@ -302,6 +307,7 @@
 						"elementPropertyName": "capitalShips"
 					}
 				],
+				"decreaseModelCount": 1,
 				"specialRules": [
 					"Focused Wrath",
 					"Penitents"
@@ -1818,7 +1824,7 @@
 				]
 			},
 			{
-				"name": "UNSC Gunnery COmmander",
+				"name": "UNSC Gunnery Commander",
 				"points": 50,
 				"keywords": [
 					"Fire at Will!"
