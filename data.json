@@ -708,7 +708,29 @@
 				],
 				"buildRating": 2,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/dsc%20support%20ship.png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "DSC Support Ship (Supported)",
@@ -718,7 +740,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/dsc%20support%20ship%20(supported).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "DSC Support Ship (Reinforced)",
@@ -728,7 +772,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/dsc%20support%20ship%20(reinforced).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "DSC Support Ship (Escorted)",
@@ -738,7 +804,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/dsc%20support%20ship%20(escorted).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "DSC Support Ship (Defended)",
@@ -748,7 +836,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/dsc%20support%20ship%20(defended).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CPV Heavy Destroyer",
@@ -758,7 +868,29 @@
 				],
 				"buildRating": 2,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cpv%20heavy%20destroyer.png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Penitents",
 					"*High Value Target"
@@ -772,7 +904,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cpv%20heavy%20destroyer%20(supported).png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Penitents",
 					"*High Value Target"
@@ -786,7 +940,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cpv%20heavy%20destroyer%20(escorted).png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Penitents",
 					"*High Value Target"
@@ -800,7 +976,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cpv%20heavy%20destroyer%20(defended).png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Penitents",
 					"*High Value Target"
@@ -814,7 +1012,29 @@
 				],
 				"buildRating": 2,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/rcs%20armored%20cruiser.png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "RCS Armored Cruiser (Supported)",
@@ -824,7 +1044,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/rcs%20armored%20cruiser%20(supported).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "RCS Armored Cruiser (Escorted)",
@@ -834,7 +1076,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/rcs%20armored%20cruiser%20(escorted).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "RCS Armored Cruiser (Defended)",
@@ -844,7 +1108,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/rcs%20armored%20cruiser%20(defended).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "RCS Armored Cruiser (Reinforced)",
@@ -854,7 +1140,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/rcs%20armored%20cruiser%20(reinforced).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "RCS Armored Cruisers (Penitent)",
@@ -865,7 +1173,29 @@
 				],
 				"buildRating": 6,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/rcs%20armored%20cruisers%20(penitent).png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 5,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 5,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 5,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Penitents"
 				]
@@ -878,7 +1208,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ccs%20battlecruiser.png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CCS Battlecruiser (Escorted)",
@@ -888,7 +1240,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ccs%20battlecruiser%20(escorted).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CCS Battlecruiser (Supported)",
@@ -898,7 +1272,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ccs%20battlecruiser%20(supported).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CCS Battlecruiser (Defended)",
@@ -908,7 +1304,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ccs%20battlecruiser%20(defended).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CCS Battlecruiser (Reinforced)",
@@ -919,7 +1337,29 @@
 				],
 				"buildRating": 5,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ccs%20battlecruiser%20(reinforced).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CCS Battlecruisers (Paired)",
@@ -930,7 +1370,29 @@
 				],
 				"buildRating": 8,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ccs%20battlecruisers%20(paired).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 4,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "Blockade Runner",
@@ -940,7 +1402,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/blockade%20runner.png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "Blockade Runner (Escorted)",
@@ -950,7 +1434,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/blockade%20runner%20(supported).png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Hidden Killer (Blockade Runner)"
 				]
@@ -963,7 +1469,29 @@
 				],
 				"buildRating": 3,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/carrack%20merchant%20cruiser.png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Plasma Beam Overload",
 					"Hunter Assault Cadres"
@@ -977,7 +1505,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/carrack%20merchant%20cruiser%20(supported).png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Plasma Beam Overload",
 					"Hunter Assault Cadres"
@@ -991,7 +1541,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/carrack%20merchant%20cruiser%20(escorted).png?raw=true",
-				"options": [],
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				],
 				"specialRules": [
 					"Plasma Beam Overload",
 					"Hunter Assault Cadres"
@@ -1005,7 +1577,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ors%20heavy%20cruiser.png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "ORS Heavy Cruiser (Supported)",
@@ -1015,7 +1609,29 @@
 				],
 				"buildRating": 5,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/ors%20heavy%20cruiser%20(supported).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "DDS-class Carrier",
@@ -1025,7 +1641,29 @@
 				],
 				"buildRating": 4,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/dds-class%20carrier.png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "DDS-class Carrier (Supported)",
@@ -1035,7 +1673,29 @@
 				],
 				"buildRating": 5,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/dds-class%20carrier%20(supported).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CAS-class Covenant Assault Carrier (Fore)",
@@ -1046,7 +1706,29 @@
 				],
 				"buildRating": 12,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cas-class%20covenant%20assault%20carrier%20(fore).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 3,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CAS-class Covenant Assault Carrier (Mid)",
@@ -1057,7 +1739,29 @@
 				],
 				"buildRating": 6,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cas-class%20covenant%20assault%20carrier%20(mid).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 5,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 5,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 5,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "CAS-class Covenant Assault Carrier (Aft)",
@@ -1068,7 +1772,29 @@
 				],
 				"buildRating": 5,
 				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cas-class%20covenant%20assault%20carrier%20(aft).png?raw=true",
-				"options": []
+				"options": [
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Covenant Fleet Commander"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Xytan 'Jar Wattinree"
+					},
+					{
+						"name": "Zealot",
+						"points": 10,
+						"increment": true,
+						"max": 2,
+						"unlockedBy": "Minister of Etiology"
+					}
+				]
 			},
 			{
 				"name": "UNSC Eion Light Carrier",
@@ -1105,6 +1831,12 @@
 						"increment": true,
 						"max": 1,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 1
 					}
 				]
 			},
@@ -1123,6 +1855,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1141,6 +1879,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1159,6 +1903,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1177,6 +1927,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1195,6 +1951,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1213,6 +1975,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1231,6 +1999,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1250,6 +2024,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1268,6 +2048,12 @@
 						"max": 4,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 4
 					}
 				]
 			},
@@ -1290,6 +2076,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1312,6 +2104,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1333,6 +2131,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1354,6 +2158,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1375,6 +2185,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1396,6 +2212,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1414,6 +2236,12 @@
 						"max": 4,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 4
 					}
 				]
 			},
@@ -1432,6 +2260,12 @@
 						"max": 4,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 5
 					}
 				]
 			},
@@ -1450,6 +2284,12 @@
 						"max": 5,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 5
 					}
 				]
 			},
@@ -1468,6 +2308,12 @@
 						"max": 4,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 4
 					}
 				]
 			},
@@ -1486,6 +2332,12 @@
 						"max": 5,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 5
 					}
 				]
 			},
@@ -1505,6 +2357,12 @@
 						"max": 4,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 4
 					}
 				]
 			},
@@ -1527,6 +2385,12 @@
 						"max": 2,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 2
 					}
 				]
 			},
@@ -1545,6 +2409,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1563,6 +2433,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1581,6 +2457,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1599,6 +2481,12 @@
 						"max": 6,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 6
 					}
 				]
 			},
@@ -1618,6 +2506,12 @@
 						"max": 7,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 7
 					}
 				]
 			},
@@ -1637,6 +2531,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			},
@@ -1656,6 +2556,12 @@
 						"max": 5,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 5
 					}
 				]
 			},
@@ -1675,6 +2581,12 @@
 						"max": 3,
 						"points": 10,
 						"unlockedBy": "UNSC Assault Commander"
+					},
+					{
+						"name": "Spartan",
+						"points": 40,
+						"increment": true,
+						"max": 3
 					}
 				]
 			}
@@ -1858,6 +2770,94 @@
 						"name": "Covenant"
 					}
 				]
+			},
+			{
+				"name": "Lord Hood",
+				"points": 120,
+				"factions": [
+					{
+						"name": "USNC"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/lord%20hood.jpg?raw=true",
+				"imageOrientation": "portrait"
+			},
+			{
+				"name": "Michael Stanforth",
+				"points": 100,
+				"factions": [
+					{
+						"name": "USNC"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/michael%20stanforth.jpg?raw=true",
+				"imageOrientation": "portrait"
+			},
+			{
+				"name": "Preston Cole",
+				"points": 140,
+				"factions": [
+					{
+						"name": "USNC"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/preston%20cole.jpg?raw=true",
+				"imageOrientation": "portrait"
+			},
+			{
+				"name": "Cortana",
+				"points": 80,
+				"factions": [
+					{
+						"name": "USNC"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/cortana.jpg?raw=true",
+				"imageOrientation": "portrait"
+			},
+			{
+				"name": "Xytan 'Jar Wattinree",
+				"points": 120,
+				"factions": [
+					{
+						"name": "Covenant"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/xytan%20jar%20wattinree.jpg?raw=true",
+				"imageOrientation": "portrait"
+			},
+			{
+				"name": "Minister of Etiology",
+				"points": 80,
+				"factions": [
+					{
+						"name": "Covenant"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/minister%20of%20etiology.jpg?raw=true",
+				"imageOrientation": "portrait"
+			},
+			{
+				"name": "Maccabeus",
+				"points": 80,
+				"factions": [
+					{
+						"name": "Covenant"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/maccabeus.jpg?raw=true",
+				"imageOrientation": "portrait"
+			},
+			{
+				"name": "Lighter Than Some",
+				"points": 40,
+				"factions": [
+					{
+						"name": "Covenant"
+					}
+				],
+				"imageUrl": "https://github.com/andrewinge/halofleet.github.io/blob/main/images/lighter%20than%20some.jpg?raw=true",
+				"imageOrientation": "portrait"
 			}
 		]
 	}
